@@ -1,0 +1,84 @@
+
+product_id,product_name,category,brand,price,description
+1,Winter Jacket,Clothing,Nike,2499,Heavy insulated jacket designed to keep the body warm in extremely cold winter weather
+2,Cotton Hoodie,Clothing,Adidas,1499,Soft and comfortable cotton hoodie suitable for casual wear and chilly days
+3,Thermal Wear,Clothing,Jockey,899,Thermal inner clothing that provides insulation and retains body heat during winter
+4,Raincoat,Clothing,Puma,1199,Waterproof lightweight coat that protects the body from rain and wet weather
+5,Leather Jacket,Clothing,Woodland,3999,Premium leather outerwear providing warmth and style during cold weather
+6,Running Shoes,Footwear,Nike,2999,Lightweight athletic shoes designed for running jogging and daily exercise
+7,Formal Shoes,Footwear,Red Tape,2199,Comfortable leather formal shoes suitable for office and business occasions
+8,Winter Boots,Footwear,Woodland,3499,Insulated waterproof boots designed for walking in snow and cold conditions
+9,Smart Watch,Electronics,boAt,2499,Smart wearable device featuring fitness tracking heart rate monitoring and notifications
+10,Wireless Headphones,Electronics,Sony,4999,Wireless over ear headphones with noise cancellation and high quality audio
+11,Bluetooth Speaker,Electronics,JBL,2999,Portable wireless speaker with powerful bass for listening to music outdoors
+12,Laptop Backpack,Bags,Skybags,1799,Durable backpack with padded laptop compartment for carrying laptops and accessories
+13,Travel Backpack,Bags,Wildcraft,2299,Spacious backpack designed for travelling hiking and carrying essential belongings
+14,Water Bottle,Accessories,Camper,499,Reusable insulated bottle that keeps drinks hot or cold for several hours
+15,Sunglasses,Accessories,Ray-Ban,1999,UV protection sunglasses designed to protect eyes from harmful sunlight
+16,Electric Heater,Home Appliances,Bajaj,1999,Portable room heater that provides warmth during extremely cold winter nights
+17,Blanket,Home,Bombay Dyeing,1299,Soft thick fleece blanket that provides warmth and comfort while sleeping in winter
+18,Yoga Mat,Fitness,Decathlon,799,Non slip exercise mat suitable for yoga stretching meditation and home workouts
+19,Gym Gloves,Fitness,Boldfit,399,Protective workout gloves designed to improve grip during weightlifting and gym training
+20,Sleeping Bag,Outdoor Gear,Quechua,2499,Insulated sleeping bag designed to keep campers warm during cold nights outdoors
+21,Waterproof Gloves,Accessories,Decathlon,699,Insulated gloves that protect hands from freezing temperatures and wet conditions
+22,Cotton T Shirt,Clothing,H&M,599,Breathable cotton casual t shirt suitable for everyday wear during warm weather
+23,Air Fryer,Home Appliances,Philips,6999,Kitchen appliance that cooks crispy food using hot air with little or no cooking oil
+24,Power Bank,Electronics,Ambrane,1299,Portable charging device used to recharge smartphones and other electronic gadgets while travelling
+25,Camping Tent,Outdoor Gear,Quechua,4999,Weather resistant outdoor shelter suitable for camping trekking and overnight mountain trips
+
+26,Waterproof Hiking Boots,Footwear,Quechua,3499,Waterproof trekking boots with anti-slip soles and ankle support for hiking on wet rocky trails and muddy mountain paths
+27,Hiking Shoes,Footwear,Decathlon,2999,Durable lightweight outdoor shoes with strong grip and cushioning for hiking trekking and walking on uneven mountain trails
+28,Waterproof Trekking Shoes,Footwear,Woodland,3999,Waterproof trekking shoes with anti-slip soles and ankle support for hiking in rain and wet conditions
+29,Trail Running Shoes,Footwear,Nike,3299,Lightweight trail running shoes with durable grip for running and hiking on uneven outdoor terrain
+30,Hiking Backpack,Bags,Quechua,2599,Lightweight hiking backpack with padded straps and storage compartments for carrying gear on mountain treks
+31,Rain Jacket,Clothing,Columbia,4599,Waterproof breathable jacket that protects against rain and wind during hiking and outdoor trekking
+32,Trekking Pants,Clothing,Wildcraft,1699,Quick dry stretch trousers designed for hiking trekking and outdoor adventures
+33,Thermal Base Layer,Clothing,Decathlon,999,Moisture wicking thermal base layer that keeps the body warm during cold weather hikes
+34,Trekking Gloves,Accessories,Quechua,799,Water resistant insulated gloves that keep hands dry and warm on cold wet mountain trails
+35,Hiking Socks,Accessories,Decathlon,399,Cushioned moisture wicking socks designed to prevent blisters during long hikes and trekking
+
+36,Laptop,Electronics,HP,45999,Portable computer suitable for programming studying office work and running software development tools
+37,Smartphone,Electronics,Samsung,18999,Touchscreen mobile phone for communication photography internet browsing and running applications
+38,Tablet,Electronics,Lenovo,15999,Portable touchscreen tablet suitable for reading studying watching videos and taking digital notes
+39,Mechanical Keyboard,Electronics,Logitech,2999,Mechanical computer keyboard with responsive keys for gaming programming and office typing
+40,Wireless Mouse,Electronics,Logitech,799,Wireless computer mouse with comfortable grip for laptop navigation office work and gaming
+41,Computer Monitor,Electronics,Dell,8999,Full HD computer display suitable for programming studying office work and watching videos
+42,USB Flash Drive,Electronics,SanDisk,499,Portable USB storage device for transferring and storing documents photos videos and files
+43,Fast Phone Charger,Electronics,Anker,1299,Fast charging adapter for quickly charging compatible smartphones and electronic devices
+44,Wireless Printer,Electronics,Canon,5999,Wireless printer for printing documents photographs assignments and study materials
+45,Webcam,Electronics,Logitech,2999,USB webcam for online meetings video conferencing online classes and recording videos
+46,Office Chair,Furniture,Green Soul,6999,Ergonomic office chair with adjustable height back support and comfortable cushioning for long working hours
+47,Desk Lamp,Home,Philips,999,LED study lamp providing focused lighting for reading studying writing and working at a desk
+48,Study Desk,Furniture,IKEA,4999,Compact wooden study table with workspace for a laptop books notebooks and office supplies
+49,Notebook,Stationery,Classmate,99,Paper notebook for writing lecture notes preparing assignments studying and maintaining daily records
+50,Ballpoint Pen,Stationery,Reynolds,20,Smooth writing ballpoint pen for taking notes completing assignments and everyday writing
+51,Water Purifier,Home Appliances,Kent,8999,Water purification system designed to remove impurities and provide cleaner drinking water for households
+52,Mixer Grinder,Kitchen Appliances,Philips,3499,Kitchen mixer grinder for blending crushing and grinding ingredients while preparing food
+53,Electric Kettle,Kitchen Appliances,Havells,1299,Electric kettle for quickly boiling water to prepare tea coffee and instant beverages
+54,Microwave Oven,Kitchen Appliances,LG,8999,Microwave oven for heating food cooking meals and defrosting frozen ingredients
+55,Vacuum Cleaner,Home Appliances,Eureka Forbes,4999,Powerful vacuum cleaner for removing dust dirt and debris from floors carpets and furniture
+56,Bedsheet Set,Home,Bombay Dyeing,999,Soft cotton bedsheet set for comfortable sleeping and decorating bedroom interiors
+57,Memory Foam Pillow,Home,Sleepwell,1499,Soft memory foam pillow designed to support the head and neck during sleeping
+58,Mattress,Home,Sleepwell,8999,Comfortable supportive mattress designed for restful sleep and everyday bedroom use
+59,Umbrella,Accessories,Decathlon,499,Portable folding umbrella that protects against heavy rain and sunlight while travelling or walking outdoors
+60,Rain Boots,Footwear,Crocs,2499,Waterproof rubber boots designed to keep feet dry while walking through rain mud and wet surfaces
+61,Sandals,Footwear,Bata,799,Comfortable lightweight sandals for everyday walking casual outings and summer use
+62,Trekking Poles,Outdoor Gear,Quechua,1299,Adjustable hiking poles that provide balance stability and support while walking on steep mountain trails
+63,Camping Headlamp,Outdoor Gear,Quechua,699,Hands free LED headlamp for camping trekking night walking and outdoor activities in darkness
+64,Portable Camping Stove,Outdoor Gear,Coleman,2499,Compact portable stove for preparing hot meals and boiling water during outdoor camping trips
+65,Sleeping Mat,Outdoor Gear,Quechua,999,Lightweight insulated sleeping mat that provides cushioning and protection from cold ground during camping
+66,First Aid Kit,Outdoor Gear,Lifeline,499,Portable emergency medical kit containing basic supplies for treating minor injuries during hiking travel and camping
+67,Sunscreen,Personal Care,Neutrogena,599,Sunscreen lotion that protects skin against harmful ultraviolet rays during outdoor activities and sunlight exposure
+68,Moisturizer,Personal Care,Nivea,299,Daily moisturizing cream that helps keep skin hydrated and soft during dry weather
+69,Wallet,Accessories,Wildhorn,699,Compact leather wallet for carrying cash bank cards identification documents and essential belongings
+70,Travel Neck Pillow,Travel Accessories,Skybags,499,Soft ergonomic neck pillow providing support and comfort during long journeys by bus train or airplane
+71,Duffel Bag,Bags,Puma,1799,Spacious sports and travel duffel bag for carrying clothes shoes and personal belongings
+72,Jeans,Clothing,Levi's,1999,Durable denim jeans suitable for everyday casual wear and comfortable outdoor activities
+73,Sweatshirt,Clothing,H&M,1499,Soft fleece sweatshirt providing warmth and comfort during cold weather and winter outings
+74,Sports Bra,Clothing,Puma,1299,Supportive breathable sports bra designed for exercise running gym workouts and physical training
+75,Water Filter Bottle,Outdoor Gear,LifeStraw,2499,Portable water filtration bottle designed for filtering drinking water during hiking trekking and outdoor travel
+76,Car Phone Mount,Automotive,Portronics,499,Adjustable mobile phone holder for mounting a smartphone securely inside a car while driving
+77,Power Drill,Tools,Bosch,4999,Cordless electric drill for drilling holes and performing household repair furniture assembly and DIY projects
+78,Tool Kit,Tools,Stanley,1499,Household repair tool kit containing essential hand tools for maintenance installation and DIY work
+79,Air Purifier,Home Appliances,Philips,8999,Air purification device designed to filter indoor dust allergens and airborne particles
+80,Electric Toothbrush,Personal Care,Oral-B,1999,Rechargeable electric toothbrush designed for daily oral hygiene and effective teeth cleaning
